@@ -23,7 +23,7 @@ Song.artists
 
 We need our `Song` class to be able to show us all of the genres of existing songs:
 
-```ruby
+```rubya
 Song.genres
   # => ["Rap", "Pop"]
 ```
